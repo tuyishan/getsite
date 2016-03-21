@@ -1,6 +1,6 @@
 # 安纳斯|整站前端模板抓取脚本 v0.8
 本项目为shell实现的整站模板抓取工具，便于前端模板资源的收集与学习。
-# 使用方skdfjlksdfjl法:
+# 使用方法:
 - 操作系统 linux, suggest Debian 64bit
 
 - 依赖工具 wget
